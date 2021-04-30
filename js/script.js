@@ -17,6 +17,6 @@ var listaOrdinata = console.log("Lista ordinata alfabeticamente: " + cognomeList
 
 // 4. scrivi anche la posizione "umana" (partendo da 1) della lista in cui il nuovo utente si trova*/
 
-for (var i = 0; i < cognomeLista.length; i++) {
-    console.log(listaOrdinata[i]);
+for (i = 0; i < cognomeLista.length; i++) {
+    console.log((i + 1) + ". " + cognomeLista[i]);
 }
