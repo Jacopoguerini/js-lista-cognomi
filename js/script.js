@@ -1,6 +1,3 @@
-
-
-// 4. scrivi anche la posizione "umana" (partendo da 1) della lista in cui il nuovo utente si trova*/
 // 1. chiedi all'utente il cognome
 var cognomeUtente = prompt("Inserisci qui il tuo cognome")
 console.log("Il cognome inserito dall'utente è: " + cognomeUtente);
